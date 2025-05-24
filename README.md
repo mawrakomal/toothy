@@ -1,1 +1,1 @@
-# toothy
+# Toothy Dental AI Chatbot
